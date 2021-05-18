@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{727E097F-C701-4297-A152-9F2B2F7B9401}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Specification/ValidContactNumberSpecification.cs">
+    <Files>
+      <File FileName="Specification/Program.cs" Line="30" Column="60" />
+      <File FileName="Specification/Specification.cs" />
+      <File FileName="Specification/AndSpecification.cs" />
+      <File FileName="Specification/OrderRequest.cs" />
+      <File FileName="Specification/ValidEmailSpecification.cs" />
+      <File FileName="Specification/ValidNameSpecification.cs" />
+      <File FileName="Specification/ValidContactNumberSpecification.cs" Line="20" Column="1" />
+      <File FileName="Specification/ValidRequestSpecification.cs" />
+      <File FileName="SpecificationTest/ValidNameSpecification.test.cs" />
+      <File FileName="SpecificationTest/ValidEmailSpecification.test.cs" />
+      <File FileName="SpecificationTest/ValidRequestSpecification.test.cs" />
+      <File FileName="SpecificationTest/AndSpecification.test.cs" />
+      <File FileName="Specification/ErrorCollection.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Specification" expanded="True">
+            <Node name="Specification" expanded="True">
+              <Node name="ValidContactNumberSpecification.cs" selected="True" />
+            </Node>
+            <Node name="SpecificationTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Specification PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

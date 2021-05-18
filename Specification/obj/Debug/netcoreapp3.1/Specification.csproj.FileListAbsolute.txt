@@ -1,0 +1,12 @@
+/Users/fhayedavila/Projects/Specification/Specification/obj/Debug/netcoreapp3.1/Specification.csprojAssemblyReference.cache
+/Users/fhayedavila/Projects/Specification/Specification/obj/Debug/netcoreapp3.1/Specification.AssemblyInfoInputs.cache
+/Users/fhayedavila/Projects/Specification/Specification/obj/Debug/netcoreapp3.1/Specification.AssemblyInfo.cs
+/Users/fhayedavila/Projects/Specification/Specification/obj/Debug/netcoreapp3.1/Specification.csproj.CoreCompileInputs.cache
+/Users/fhayedavila/Projects/Specification/Specification/bin/Debug/netcoreapp3.1/Specification.deps.json
+/Users/fhayedavila/Projects/Specification/Specification/bin/Debug/netcoreapp3.1/Specification.runtimeconfig.json
+/Users/fhayedavila/Projects/Specification/Specification/bin/Debug/netcoreapp3.1/Specification.runtimeconfig.dev.json
+/Users/fhayedavila/Projects/Specification/Specification/bin/Debug/netcoreapp3.1/Specification.dll
+/Users/fhayedavila/Projects/Specification/Specification/bin/Debug/netcoreapp3.1/Specification.pdb
+/Users/fhayedavila/Projects/Specification/Specification/obj/Debug/netcoreapp3.1/Specification.dll
+/Users/fhayedavila/Projects/Specification/Specification/obj/Debug/netcoreapp3.1/Specification.pdb
+/Users/fhayedavila/Projects/Specification/Specification/obj/Debug/netcoreapp3.1/Specification.genruntimeconfig.cache
